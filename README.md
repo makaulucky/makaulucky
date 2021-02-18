@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Developer </> 🤣!!
+## I'm a Developer 🤣
 
-- 🌱 I’m currently learning Python 🤣
+- 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: I have an Active email address🤣
-- ⚡ Fun fact: Lets Play a Game!
+- ⚡ Fun fact: Lets Play a Game!🤣
 ### Connect with me:
 
