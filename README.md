@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer 🤣
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning JavaScript  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: I have an Active email address🤣
