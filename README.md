@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: I have an Active email address🤣
-- ⚡ Fun fact: Lets Play a Game!🤣
+- ⚡ Fun fact: I like cooking!🤣
 ### Connect with me:
 
