@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **makaulucky/makaulucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,10 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I have an Active email address🤣
 - ⚡ Fun fact: Lets Play a Game!
 ### Connect with me:
-
-[<img align="left" alt="makaulucky | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="makaulucky | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="its_makaujr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 
