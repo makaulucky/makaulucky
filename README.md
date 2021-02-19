@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: I have an Active email address🤣
 - ⚡ Fun fact: I like cooking!🤣
-### Connect with me:
+
+[![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky)](https://github.com/makaulucky/github-readme-stats)
 
