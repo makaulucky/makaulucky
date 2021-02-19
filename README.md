@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakauluckyr&screen_name=makaulucky)
 
-## I'm a Developer 🤣
+## I'm a Developer
 
 - 🌱 I’m currently learning JavaScript  🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like cooking!🤣
 
 [![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky)](https://github.com/makaulucky/github-readme-stats)
+![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky&show_icons=true&theme=radical)
 
