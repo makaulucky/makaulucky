@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Lucky Makau 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakauluckyr&screen_name=makaulucky)
+<hr>
 
 ## I'm a Developer
 
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: I have an Active email address🤣
 - ⚡ Fun fact: I like cooking!🤣
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakauluckyr&screen_name=makaulucky)
 
 <hr>
 
