@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript  🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: I have an Active email address🤣
+- 📫 I have an Active email address🤣 [makaulucky5@gmail.com]
 - ⚡ Fun fact: I like cooking!🤣
 
 ## Visit my Twitter
