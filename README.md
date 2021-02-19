@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I have an Active email address🤣
 - ⚡ Fun fact: I like cooking!🤣
 
-[![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky)](https://github.com/makaulucky/github-readme-stats)
+
 ![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky&show_icons=true&theme=radical)
 
