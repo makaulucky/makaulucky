@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaulucky&layout=compact)](https://github.com/makaulucky/github-readme-stats)
 <br>
 <br>
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
