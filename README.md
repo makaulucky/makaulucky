@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I like cooking!🤣
 
 ### Skills: 
-PHP | MySQL | REACT NATIVE | JS | HTML | CSS
+PHP | MySQL | REACT NATIVE | JS | HTML | CSS | Git |
 
 <hr>
 
