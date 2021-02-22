@@ -14,7 +14,8 @@
 - 📫 I have an Active email address🤣 [makaulucky5@gmail.com]
 - ⚡ Fun fact: I like cooking!🤣
 
-Skills: PHP / MySQL / REACT NATIVE / JS / HTML / CSS
+### Skills: 
+PHP | MySQL | REACT NATIVE | JS | HTML | CSS
 
 <hr>
 
@@ -22,14 +23,9 @@ Skills: PHP / MySQL / REACT NATIVE / JS / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaulucky&layout=compact)](https://github.com/makaulucky/github-readme-stats)  
 
 
-
-## Lets connect
+### Lets connect
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/makaulucky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/makaulucky/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_makaujr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/makaulucky) 
-
-
-
-
 
 
 <hr>
