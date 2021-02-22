@@ -1,19 +1,8 @@
-<!--
-**makaulucky/makaulucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/makaulucky)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there, I'm Lucky Makau 👋
-
+### Hi there, I'm Lucky Makau 👋  
+[![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakauluckyr&screen_name=makaulucky)
 <hr>
 
 ## I'm a Developer
@@ -24,13 +13,19 @@ Here are some ideas to get you started:
 - 📫 I have an Active email address🤣 [makaulucky5@gmail.com]
 - ⚡ Fun fact: I like cooking!🤣
 
-## Visit my Twitter
-[![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakauluckyr&screen_name=makaulucky) 
-
 <hr>
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 ![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaulucky&layout=compact)](https://github.com/makaulucky/github-readme-stats)  
+
 <hr>
+
+##Lets connect
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/makaulucky)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/makaulucky/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_makaujr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/makaulucky) 
+
+
+
+
+
+
