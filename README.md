@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 💬 Ask me about PHP, MySQL, BootStrap, CSS, HTML,JavaScript & React Native.
+- 💬 Ask me about PHP, MySQL, BootStrap5, CSS3, HTML5,JavaScript & React Native.
 - 📫 I have an Active email address🤣 [makaulucky5@gmail.com]
 - ⚡ Fun fact: I like cooking!🤣
 
