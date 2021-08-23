@@ -11,7 +11,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about React Native,JavaScript,Git,PHP,MySQL,BootStrap5,CSS3 & HTML5.
-- 📫 I have an Active email address🤣 [makaulucky5@gmail.com]
+- 📫 I have an Active email address🤣 <a href="mailto:{info@squaretech.co.ke}? subject={subject}&body={content}">
+							<i class="fa fa-envelope"> send me an email here</i>
+						</a>
 - ⚡ Fun fact: I like cooking!🤣
 
 ### Skills: 
