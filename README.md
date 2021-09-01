@@ -1,9 +1,10 @@
 ![Profile views](https://gpvc.arturio.dev/makaulucky)
 
-
-### Hi there 👋  
 [![Twitter Follow](https://img.shields.io/twitter/follow/makaulucky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmakauluckyr&screen_name=makaulucky)
 <hr>
+
+### Hi there 👋  
+
 
 ## I'm Lucky Makau, a Software Developer
 
