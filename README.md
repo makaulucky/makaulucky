@@ -22,9 +22,6 @@ JavaScript | NextJs | REACT NATIVE | PHP | MySQL  | HTML | CSS | Git |
 
 <hr>
 
-![Lucky's GitHub stats](https://github-readme-stats.vercel.app/api?username=makaulucky&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makaulucky&layout=compact)](https://github.com/makaulucky/github-readme-stats)  
-
 
 ### Lets connect
 
