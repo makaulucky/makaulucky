@@ -8,12 +8,12 @@
 
 ## I'm Lucky Makau, a Software Developer
 
-- 🌱 I’m currently learning React Native.
+- 🌱 I’m currently learning Laravel and React Native.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects while building more stuff
 - 💬 Ask me about React Native,JavaScript,Git,PHP,MySQL,BootStrap5,CSS3 & HTML5.
-- 📫 I have an Active email address🤣 <a href="mailto:makaulucky5@gmail.com? subject={subject}&body={content}">
-							<i class="fa fa-envelope"> send me an email here</i>
+- 📫 I have an Active email address <a href="mailto:makaulucky5@gmail.com? subject={subject}&body={content}">
+							<i class="fa fa-envelope"> Say Hello 👋  </i>
 						</a>
 - ⚡ Fun fact: I like cooking!🤣
 
