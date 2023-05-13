@@ -15,7 +15,7 @@
 - 📫 I have an Active email address <a href="mailto:makaulucky5@gmail.com? subject={subject}&body={content}">
 							<i class="fa fa-envelope"> Say Hello 👋  </i>
 						</a>
-- ⚡ Fun fact: I like cooking!🤣
+- ⚡ Fun fact: Sharks don't know that Camels exist!🤣
 
 ### Skills: 
 JavaScript | NextJs | REACT NATIVE | PHP | MySQL  | HTML | CSS | Git |
