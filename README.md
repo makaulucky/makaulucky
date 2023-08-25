@@ -11,17 +11,16 @@ src="https://img.shields.io/twitter/follow/makaulucky?logo=twitter&style=for-the
 ## I'm Lucky Makau, Web developer and Designer
 
 - 🧠  I'm learning Django
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects while building more stuff
-- 💬 Ask me about React Native,JavaScript,Git,PHP,MySQL,BootStrap5, Python, CSS3 & HTML5.
-- 🤝  I'm open to collaborating on WebApps and Mobile apps design and development
+- 💬 Ask me about Python, MySQL, PHP, Git, React Native,JavaScript,BootStrap5, CSS3 & HTML5.
+- 🤝  I'm open to collaborating on WebApps and Mobile apps design and development.
 - 📫 I have an Active email address <a href="mailto:makaulucky5@gmail.com? subject={subject}&body={content}">
 							<i class="fa fa-envelope"> Say Hello 👋  </i>
 						</a>
 - ⚡ Fun fact: Sharks don't know that Camels exist!🤣
 
 ### Skills: 
-JavaScript | NextJs | REACT NATIVE | PHP | MySQL  | HTML | CSS | Git | PYTHON
+PYTHON | PHP | MySQL  | HTML | CSS | Git | REACT NATIVE | NextJs | JavaScript
 
 <hr>
 
