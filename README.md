@@ -46,6 +46,4 @@ PYTHON | PHP | MySQL  | HTML | CSS | Git | REACT NATIVE | NextJs | JavaScript
 
 <a href="https://www.buymeacoffee.com/makaulucky" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Makaulucky"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
 </ul>
